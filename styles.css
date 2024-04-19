@@ -1,0 +1,132 @@
+* {
+    background-color: #121212;
+    color: white;
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin: 2rem 6rem;
+}
+
+.nav-link {
+    display: inline;
+    width: 25%;
+    padding: 20px;
+    font-size: 20px;
+    
+}
+
+.nav-bar {
+    margin:auto;
+    display:flex;
+    justify-content: center;
+    width: 100%;
+    
+    
+}
+
+.solaire{
+    width: 250px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2rem;
+    display: block;
+}
+
+.solaire-miracle{
+    border: 5px solid white;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 4rem;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+    color: #ff6865; 
+}
+
+ol li{
+    color: #d4af37;
+    padding: 5px;
+    list-style-type:upper-roman;
+    list-style: upper-roman inside;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 20px;
+    text-align: center;
+}
+
+.title {
+    margin: 2rem;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 4rem;
+}
+
+h2 {
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    font-size: 35px;
+    text-decoration:underline;
+}
+
+p {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 20px;
+}
+
+.quotes {
+    margin-top: 2rem;
+    text-align: center;
+    font-style: italic ;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+table {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+th {
+    border: 0.5px solid white;
+    padding : 5px;
+}
+
+td {
+    border: 0.5px solid white;
+    padding: 5px;
+    text-align: center;
+}
+.facts {
+    font-size: 20px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    list-style: inside;
+}
+
+.back-to-top {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+footer {
+    margin: 2rem;
+    
+}
+
+
